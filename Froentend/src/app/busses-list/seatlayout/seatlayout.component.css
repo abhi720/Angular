@@ -1,0 +1,14 @@
+mat-grid-tile {
+  background: lightblue;
+}
+
+mat-header-cell {
+  font-weight: bold;
+}
+
+form table {
+  width: 100%;
+}
+form table td {
+  padding: 10px;
+}
