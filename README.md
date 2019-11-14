@@ -1,2 +1,3 @@
 # Angular
-Sample Bus app
+Sample Bus app front end
+
